@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @stephandrew
+- 👀 I’m interested in data science and machine learning
+- 🌱 I’m currently learning python!
+- 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/stephanie-andrew-878678197/
