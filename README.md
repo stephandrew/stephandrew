@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @stephandrew
 - 👀 I’m interested in data science, machine learning, and more specifically, data ethics
-- 🌱 I’m currently learning python!
+- 🌱 View my Tableau: https://public.tableau.com/app/profile/stephanie.andrew#!/?newProfile=true&activeTab=0
 - 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/andrew-stephanie
